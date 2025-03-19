@@ -6,7 +6,7 @@
 </p>
 
 <h2>🔭 Current Work</h2>
-<p>I'm currently working full-time as an Android Developer at <strong>POS Mission</strong>, where I develop and maintain high-quality mobile applications with a focus on delivering top-notch user experiences.</p>
+<p>I'm currently working full-time as an Android Developer, developing and maintaining high-quality mobile applications with a focus on delivering top-notch user experiences.</p>
 
 <h2>🌱 Learning Goals 🏆</h2>
 <p>My current goal is to enhance my expertise in <strong>Native Android Development</strong> using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>. I continuously explore new technologies and best practices to stay ahead in the Android ecosystem.</p>
