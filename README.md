@@ -1,12 +1,12 @@
 <h1 align="center">SA 👋, I'm Mohammad</h1>
-<h3 align="center">A Passionate Android Developer</h3>
+<h3 align="center">Mobile Android Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadashrf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h2>🔭 Current Work</h2>
-<p>I'm currently working full-time as an Android Developer, developing and maintaining high-quality mobile applications with a focus on delivering top-notch user experiences.</p>
+<p>I'm currently working full-time as a Mobile Android Engineer, developing and maintaining high-quality mobile applications with a focus on delivering top-notch user experiences.</p>
 
 <h2>🌱 Learning Goals 🏆</h2>
 <p>My current goal is to enhance my expertise in <strong>Native Android Development</strong> using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>. I continuously explore new technologies and best practices to stay ahead in the Android ecosystem.</p>
@@ -28,7 +28,8 @@
 
 <h2>💻 Languages & Tools</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-plain.svg" alt="Compose" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
