@@ -52,17 +52,3 @@
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mohammadashrf" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Ashraf-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mohammadashrafegy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
