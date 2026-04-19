@@ -50,5 +50,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" />
 
 </p>
-
----
