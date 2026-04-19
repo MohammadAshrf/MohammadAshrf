@@ -1,44 +1,68 @@
-<h1 align="center">SA 👋, I'm Mohammad</h1>
-<h3 align="center">Mobile Android Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Ashraf</h1>
+<h3 align="center">Mobile Android Engineer at Bosta</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadashrf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  Building modern Android apps with Kotlin, Jetpack Compose, and scalable architecture.
 </p>
 
-<h2>🔭 Current Work</h2>
-<p>I'm currently working full-time as a Mobile Android Engineer, developing and maintaining high-quality mobile applications with a focus on delivering top-notch user experiences.</p>
-
-<h2>🌱 Learning Goals 🏆</h2>
-<p>My current goal is to enhance my expertise in <strong>Native Android Development</strong> using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>. I continuously explore new technologies and best practices to stay ahead in the Android ecosystem.</p>
-
-<h2>📫 Connect with Me</h2>
-<p>
-  <a href="https://linkedin.com/in/mohammadashrf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Ashraf-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:mohammadashrafegy" target="_blank">
-    <img src="https://img.shields.io/badge/Email-mohammadashrafegy@gmail.com-important?style=flat&logo=gmail" alt="Email" />
-  </a>
-
-  <a href="https://twitter.com/mohammadashrff" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mohammadashrff?style=social" alt="Twitter" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadashrf&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h2>💻 Languages & Tools</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-plain.svg" alt="Compose" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="Compose" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="SQLite" width="40" height="40"/>
-  <!-- Add more tools or languages if needed -->
+---
+
+## 👨‍💻 About Me
+
+- ⚡ Specialized in **Kotlin**, **Jetpack Compose**, and modern Android development  
+- 🧠 Passionate about clean code, scalable architecture, and smooth user experiences  
+- 🚀 Currently focused on scalable architecture, performance, and modern Android practices  
+- 🎯 Focused on delivering apps users actually enjoy using  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadashrf&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadashrf&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.simpleicons.org/github/white" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohammadashrf" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Ashraf-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mohammadashrafegy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
