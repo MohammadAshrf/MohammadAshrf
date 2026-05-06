@@ -23,11 +23,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadashrf&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1400&color=70A5FD&center=true&vCenter=true&width=900&lines=Mobile+Android+Engineer;I+build+stuff+with+Kotlin+and+Compose;Probably+debugging+right+now;Scroll+down+and+check+out+my+projects+%F0%9F%91%87;Trying+to+make+apps+people+actually+enjoy+using"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadashrf&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadashrf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadashrf&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70A5FD&text_color=C9D1D9&langs_count=6"
+    alt="Top Languages"
+  />
 </p>
 
 ---
