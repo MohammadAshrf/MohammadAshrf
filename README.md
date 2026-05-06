@@ -13,18 +13,9 @@
 
 ## 👨‍💻 About Me
 
-- ⚡ Specialized in **Kotlin**, **Jetpack Compose**, and modern Android development  
-- 🧠 Passionate about clean code, scalable architecture, and smooth user experiences  
-- 🚀 Currently focused on scalable architecture, performance, and modern Android practices  
-- 🎯 Focused on delivering apps users actually enjoy using  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1400&color=70A5FD&center=true&vCenter=true&width=900&lines=Mobile+Android+Engineer;I+build+stuff+with+Kotlin+and+Compose;Probably+debugging+right+now;Scroll+down+and+check+out+my+projects+%F0%9F%91%87;Trying+to+make+apps+people+actually+enjoy+using"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=950&height=40&lines=Mobile+Android+Engineer;I+build+stuff+with+Kotlin+and+Compose;Probably+debugging+right+now;Trying+to+make+apps+people+actually+enjoy+using+%22%29;%E2%98%95+Most+bugs+are+solved+right+after+coffee+%3AD"
     alt="Typing Animation"
   />
 </p>
@@ -49,7 +40,7 @@
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" />
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45" />
